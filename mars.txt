@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite color
+<<<<<<< HEAD
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 I will establish Venus as a base, rather
+=======
+>>>>>>> parent of 8406cb1... Added line about moons
